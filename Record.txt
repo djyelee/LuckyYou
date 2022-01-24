@@ -1,22 +1,22 @@
-  1  1  0  0 Chandler Bryant bryantc2 
-  2  1  1  0 Clement Derek derekvc 
-  3  1  0  0 Gillespie Morgan scrtcwlv 
-  4  1  0  1 Gneiting Scott sgneitin 
-  5  1  0  0 Gough Michael mgough85 
-  6  1  1  0 Hill Jordan jchill91 
-  7  1  0  0 Hinton Michael mghinton 
-  8  1  0  0 Jackson James superjax 
-  9  1  1  0 Keller Andrew akeller9 
- 10  1  1  0 Lindell David dlindell 
- 11  1  0  0 Lund Jason jml263 
- 12  1  0  0 McDonald Sam sammcd4 
- 13  1  0  0 McLaughlin Stephen spudbrai 
- 14  1  1  0 Nielsen Jerel jerelbn 
- 15  1  0  0 Raven Lindsey lraven 
- 16  1  0  0 Roberts Kaleo kaleorob 
- 17  1  0  0 Rupert Levi levithor 
- 18  1  0  0 Taylor Justin ejtaylor 
- 19  1  0  0 Townsend Eric ericct 
- 20  1  0  0 Vogel John vogel2 
- 21  1  0  0 White Jacob whiteja 
- 22  1  1  1 Wyman Matt mwyman 
+1 1 0 1 Barton Dylan
+2 1 0 1 Benham Derek
+3 1 0 1 Broekhuijsen Joshua
+4 1 0 1 Brown Aaron
+5 1 0 1 Christensen David
+6 1 0 2 Fish Davin
+7 1 0 2 Jordan Alex
+8 1 0 1 Kjar Josh
+9 1 0 2 Miner Dallin
+10 1 0 1 Palacios Ashton
+11 1 0 2 Porter Nate
+12 1 0 2 Rogers Ethan
+13 1 0 2 Schwallier Ian
+14 1 0 1 Shaw Kody
+15 1 0 1 Smith James
+16 1 0 1 Sorensen Christian
+17 1 0 2 Sumsion Drew
+18 1 0 1 Torrie Shad
+19 1 0 1 Warr Chandler
+20 1 0 1 Zapata Sebastian
+21 1 0 0 Graff Doug
+22 1 0 0 Stratford Jacob
