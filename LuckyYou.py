@@ -149,7 +149,7 @@ class App(Frame):
 
     def exitApp(self):          #exit loop
         self.stopflag = True
-        t = threading.Timer(0.5, self.stop)  # start a timer (non-blocking) to give main thread time to stop
+        t = threading.Timer(1.0, self.stop)  # start a timer (non-blocking) to give main thread time to stop
         t.start()
 
     def stop(self):
